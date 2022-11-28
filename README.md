@@ -12,5 +12,9 @@ Git hub
 welcome to the repositary.<br>
 develop a software.<br>
 </p>
+<div class="outer">
+<div class="inner">
+<div class="image">
+<h4> welcome to the div tag section></h4>
 </body>
 </html>
