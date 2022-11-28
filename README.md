@@ -16,5 +16,8 @@ develop a software.<br>
 <div class="inner">
 <div class="image">
 <h4> welcome to the div tag section></h4>
+  </div>
+  </div>
+  </div>
 </body>
 </html>
